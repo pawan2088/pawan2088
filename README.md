@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Pawan Kumar<br> and I'm a Software Developer, from INDIA</h2>
+<h2 align="left">Hi 👋! My name is Pawan Kumar<br> and I'm a Software Developer from INDIA</h2>
 
 ###
 
